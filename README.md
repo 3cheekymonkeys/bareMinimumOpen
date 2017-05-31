@@ -1,1 +1,2 @@
-# bareMinimumOpen
+# Bare Minimum Opencart MVC 
+
